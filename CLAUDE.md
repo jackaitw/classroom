@@ -14,6 +14,11 @@
 - 📘 Obsidian 駕駛艙：`claude/classroom/工作筆記.md`（想法的家）
 - 🔥 Firebase 專案：尚未連接（需要時再跑懶人包 #04.5）
 
+## AI 功能約定
+- 工具的 AI 功能一律用 Gemini 免費 API
+- API Key 從環境變數 `GEMINI_API_KEY` 讀取，**不要寫進程式碼或 repo**
+- 可用模型：`gemini-3.8-flash`（`gemini-2.5-flash` 已對新用戶停用）
+
 ## 工具清單
 （之後加新工具時會自動更新）
 - （尚無）
