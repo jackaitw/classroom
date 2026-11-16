@@ -9,9 +9,9 @@
 - **接續工作**：對 Claude 說「開工」或「讀工作筆記、告訴我上次做到哪」
 
 ## 工作桌 + 三個家
-- 📋 GDrive 工作桌：`G:\我的雲端硬碟\classroom\`（自動跨電腦同步）
+- 📋 GDrive 工作桌：`Z:\classroom\`（Google 雲端硬碟，RaiDrive 掛載 Z:）
 - 🐙 GitHub repo：`jackaitw/classroom`（公開，網頁的家）
-- 📘 Obsidian 駕駛艙：`claude/classroom/工作筆記.md`（想法的家）
+- 📘 Obsidian 駕駛艙：`Z:\claude\classroom\工作筆記.md`（想法的家）
 - 🔥 Firebase 專案：尚未連接（需要時再跑懶人包 #04.5）
 
 ## AI 功能約定
