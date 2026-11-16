@@ -12,7 +12,10 @@
 - 📋 GDrive 工作桌：`Z:\classroom\`（Google 雲端硬碟，RaiDrive 掛載 Z:）
 - 🐙 GitHub repo：`jackaitw/classroom`（公開，網頁的家）
 - 📘 Obsidian 駕駛艙：`Z:\claude\classroom\工作筆記.md`（想法的家）
-- 🔥 Firebase 專案：尚未連接（需要時再跑懶人包 #04.5）
+- 🔥 Firebase 專案：`jackaitw-teaching-tools-7c7d2`（Firestore `(default)`，asia-east1 台灣）
+  - 規則檔：`firestore.rules`（白名單 `test_collection`、`wordcloud_words`，其餘禁止）
+  - Web SDK 設定：`firebase-config.json`（公開資訊，可進 repo）
+  - 部署規則：`firebase deploy --only firestore:rules`
 
 ## AI 功能約定
 - 工具的 AI 功能一律用 Gemini 免費 API
