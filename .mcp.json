@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "obsidian": {
+      "type": "stdio",
+      "command": "C:/Users/jackai/AppData/Local/hermes/node/mcpvault.cmd",
+      "args": [
+        "C:/Users/jackai/claude-vault"
+      ]
+    }
+  }
+}
